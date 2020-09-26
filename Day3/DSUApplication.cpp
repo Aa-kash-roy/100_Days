@@ -1,6 +1,7 @@
 // Disjoint Set and Union..DSU tag Problems!
 
-/* 
+/*  
+    Author:@Akash Kumar
     Sometimes in specific applications of the DSU
     you need to maintain the distance between
     a vertex and the representative of its set 
